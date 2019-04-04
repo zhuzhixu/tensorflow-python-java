@@ -1,1 +1,7 @@
 this is a tensorflow for java and python project.
+pythonDemo : 这是一个创建三维回归模型的项目，通过线性回归来建立pb模型
+javaDemo: 这是一个springboot的项目，将pb模型导入，通过tensorflow api 来实现预测功能
+
+
+--------------------------------------------------------------------------------
+
